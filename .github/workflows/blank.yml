@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'URL to recovery/boot image'
         required: true
-        default: 'https://github.com/momo54181/action_build_twrp_device_tree/raw/main/recovery.img'
+        default: 'https://pixeldrain.com/api/file/4rgGt6at/info/zip/recovery_a.img'
 
 jobs:
   generate-device-tree:
